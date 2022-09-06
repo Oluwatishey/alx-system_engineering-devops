@@ -1,1 +1,1 @@
-Write a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
+Display the number of lines that contain the pattern “bin” in the file /etc/passwd
